@@ -4,3 +4,4 @@
   X-Content-Type-Options: nosniff
   Content-Security-Policy: script-src 'self'
   Referrer-Policy: strict-origin
+  Permissions-Policy: geolocation=(self "https://stellar-ganache-aa73f8.netlify.app"), microphone=()
